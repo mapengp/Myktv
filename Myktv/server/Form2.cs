@@ -14,6 +14,7 @@ namespace server
     {
         public Form2()
         {
+            //哈哈哈哈哈哈
             InitializeComponent();
         }
     }
